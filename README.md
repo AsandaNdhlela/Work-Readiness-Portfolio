@@ -105,7 +105,7 @@ Completed the “Workplace Etiquette” module and engaged in activities related
 
 ---
 
-## 📄 Create a CV 📎 
+## 6. 📄 Create a CV 📎 
 **Evidence:** 
 [Asanda_Ndhlela CV.pdf](https://github.com/user-attachments/files/22986681/Asanda_Ndhlela.CV.pdf)
 
