@@ -6,182 +6,108 @@
 
 ---
 
-### 📎 Related Assessment Documents
+## 1. Business Communication
 
-* [Assessment Cover Page](documents/assessment-cover.md)
-* [Digital Portfolio Rubric](documents/portfolio-rubric.md)
+### Evidence
 
----
+Completed the “Work Readiness: Business Communication” module on Blackboard. Evidence includes screenshots of module completion and a sample professional email drafted for assessment.
 
-## 🎯 Career Counseling (Business Communication)
+### Reflection (STAR Technique)
 
-**Completed:** “Work Readiness: Business Communication” module on Blackboard
+**Situation:** As a final-year ICT student, I needed to improve my ability to communicate professionally in both written and verbal forms.
 
-### 🔍 Reflection (STAR Technique)
+**Task:** Develop clear and concise communication skills suitable for business environments.
 
-**Situation:**
-As a final-year ICT student, I needed to strengthen my professional communication skills to prepare for the workplace.
+**Action:** Completed multiple Blackboard activities focused on business communication, participated in class presentations, and received lecturer feedback on professionalism and tone.
 
-**Task:**
-
-* Understand professional business communication standards
-* Practice effective email and report writing
-* Improve verbal communication for presentations
-
-**Action:**
-
-* Completed Blackboard activities on workplace communication
-* Composed mock professional emails and practice presentations
-* Received peer and lecturer feedback on tone and structure
-
-**Result:**
-
-* **Improved Clarity:** My written and verbal communication became more concise and professional.
-* **Confidence Boost:** I can now confidently present and respond to professional correspondence.
-
-📎 **Evidence:**
-![Business Communication Evidence](PRP_Assignment/Work-Readiness-Portfolio/artefacts/evidence/Business Communication.png)
-
-🧩 **Reflection:**
-This module improved my understanding of professional etiquette and helped me adopt a positive communication style in academic and work environments.
+**Result:** Improved my ability to write structured emails and communicate effectively in group settings. I now understand the importance of tone, clarity, and presentation when communicating in the workplace.
 
 ---
 
-## 💻 Skills Development (Interview Skills & Mock Interview)
+## 2. Interview Skills
 
-**Completed:** Interview Preparation & Mock Interview on Blackboard
+### Evidence
 
-### 🔍 Reflection (STAR Technique)
+Completed the “Interview Skills” course on Blackboard. Collected notes on STAR technique application, common interview questions, and feedback from practice interview sessions.
 
-**Situation:**
-I recognized that I needed to develop my interview skills to succeed in applying for internships and entry-level ICT positions.
+### Reflection (STAR Technique)
 
-**Task:**
+**Situation:** Preparing for interviews as part of my transition from student to professional.
 
-* Learn effective interview techniques
-* Practice answering behavioral questions using STAR
-* Participate in a mock interview and receive feedback
+**Task:** Learn how to respond to interview questions confidently and demonstrate both technical and soft skills.
 
-**Action:**
+**Action:** Studied STAR-based interview preparation materials and practiced responding to sample questions. Received guidance from lecturers on improving confidence and articulation.
 
-* Completed online “Interview Skills” module and mock interview session
-* Recorded responses and reviewed lecturer feedback
-* Practiced with sample ICT-related interview questions
-
-**Result:**
-
-* **Preparedness:** I can confidently answer both technical and situational questions.
-* **Self-Awareness:** Identified areas for improvement like time management and self-presentation.
-
-📎 **Evidence:**
-![Mock Interview Screenshot](media/mock-interview.png)
-
-🧩 **Reflection:**
-The mock interview helped me gain practical insight into real-world interview expectations and how to apply the STAR technique effectively.
+**Result:** I gained valuable experience in structuring my answers using the STAR method, ensuring that my responses are relevant and outcome-focused.
 
 ---
 
-## 🧠 Personality Assessment (Professional Networking)
+## 3. Mock Interview
 
-📎 **Evidence:**
-![Personality Test Results](media/personality-assessment.png)
+### Evidence
 
-### 🔍 Reflection (STAR Technique)
+Participated in a mock interview simulation as part of the PRP370S assessment. Evidence includes a video recording of the session and peer/lecturer feedback reports.
 
-**Situation:**
-While working in group projects, I realized how different personalities influence collaboration and teamwork.
+### Reflection (STAR Technique)
 
-**Task:**
-Identify my personality type and understand how it affects workplace interactions.
+**Situation:** I needed to experience a real interview environment to assess my readiness.
 
-**Action:**
-Completed a personality and networking strengths assessment on Blackboard. Compared results with classmates to analyze team dynamics.
+**Task:** Perform in a simulated interview setting while applying STAR principles and maintaining professional etiquette.
 
-**Result:**
+**Action:** Prepared potential interview questions, practiced introductions, and revised technical knowledge relevant to the ICT field.
 
-* **Improved Collaboration:** I now adapt my communication approach to different personality types.
-* **Professional Growth:** I learned to maintain a balance between assertiveness and active listening.
-
-🧩 **Reflection:**
-This activity improved my emotional intelligence and understanding of how professional networking contributes to teamwork and leadership.
+**Result:** The feedback highlighted strong communication and technical knowledge but identified minor improvements in time management during responses. I now feel confident for actual interviews.
 
 ---
 
-## 📄 Curriculum Vitae (Workplace Etiquette)
+## 4. Professional Networking
 
-📎 **Evidence:**
-![CV Feedback Screenshot](media/cv-feedback.png)
-[View My CV](PRP_Assignment/Work-Readiness-Portfolio/artefacts/Asanda_Ndhlela CV.pdf)
+### Evidence
 
-### 🔍 Reflection (STAR Technique)
+Created and updated a professional LinkedIn profile to expand my ICT network. Shared academic achievements and GitHub projects. Also attended an online ICT networking session.
 
-**Situation:**
-I needed a professional CV that aligns with current ICT industry expectations.
+### Reflection (STAR Technique)
 
-**Task:**
-Develop an ATS-friendly and visually appealing CV to apply for internships.
+**Situation:** Recognized the need to build a professional online presence for career development.
 
-**Action:**
+**Task:** Develop and maintain an updated LinkedIn profile and connect with professionals in the ICT field.
 
-* Followed Blackboard CV workshop guidance
-* Used a clean, structured CV template
-* Highlighted projects, technical skills, and achievements
+**Action:** Updated profile with qualifications, certifications, and project links. Joined ICT-related groups and followed local companies for career opportunities.
 
-**Result:**
-
-* **Professional Presentation:** My CV now clearly reflects my technical and soft skills.
-* **Positive Feedback:** Received acknowledgment from peers and lecturer for clarity and structure.
-
-🧩 **Reflection:**
-This activity improved my ability to communicate qualifications and achievements effectively through professional documentation.
+**Result:** Successfully expanded my professional network and received engagement from industry professionals. This improved my confidence and awareness of industry expectations.
 
 ---
 
-## 💼 Job Application & Interview Prep (Workplace Readiness)
+## 5. Workplace Etiquette
 
-📎 **Evidence:**
-![LinkedIn Profile Screenshot](media/linkedin.png)
-![Application Tracker Screenshot](media/job-applications.png)
+### Evidence
 
-### 🔍 Reflection (STAR Technique)
+Completed the “Workplace Etiquette” module and engaged in activities related to professional behavior, dress code, teamwork, and punctuality. Included notes and screenshots from Blackboard activities.
 
-**Situation:**
-As graduation approaches, I must prepare for the transition into professional employment.
+### Reflection (STAR Technique)
 
-**Task:**
+**Situation:** Needed to understand expected behavior and conduct in professional environments.
 
-* Apply for internship and junior developer roles
-* Strengthen LinkedIn and GitHub presence
-* Prepare for behavioral and technical interviews
+**Task:** Learn about workplace norms, time management, and professional collaboration.
 
-**Action:**
+**Action:** Studied workplace etiquette materials, completed reflection activities, and discussed real-world examples of professional behavior in class.
 
-* Optimized my LinkedIn profile with project links and certifications
-* Applied to multiple ICT internship opportunities
-* Practiced interview responses using Blackboard materials
-
-**Result:**
-
-* **Professional Readiness:** Developed confidence and consistency in applications.
-* **Industry Insight:** Gained a better understanding of how to align academic projects with job requirements.
-
-🧩 **Reflection:**
-The application process reinforced my understanding of persistence and professional communication. I can now confidently connect my academic achievements to real-world job expectations.
+**Result:** Developed a better understanding of workplace expectations and improved my ability to adapt to different professional settings.
 
 ---
 
-## 🧾 Summary
+## Summary Table
 
-| Category                | Achievement                                | Evidence                           |
-| ----------------------- | ------------------------------------------ | ---------------------------------- |
-| Business Communication  | Completed Work Readiness Communication     | business-communication.png         |
-| Interview Skills        | Completed Mock Interview & STAR reflection | mock-interview.png                 |
-| Professional Networking | Understood team collaboration styles       | personality-assessment.png         |
-| CV Creation             | Developed professional CV                  | cv-feedback.png                    |
-| Interview Preparation   | Improved readiness for ICT job market      | linkedin.png, job-applications.png |
+| Category                | Evidence                                          | Reflection Summary                               |
+| ----------------------- | ------------------------------------------------- | ------------------------------------------------ |
+| Business Communication  | Blackboard module completion, email samples       | Improved clarity and professional tone           |
+| Interview Skills        | Practice notes, lecturer feedback                 | Gained interview confidence using STAR method    |
+| Mock Interview          | Recorded interview session                        | Enhanced presentation and time management skills |
+| Professional Networking | LinkedIn profile and ICT networking participation | Expanded network and industry awareness          |
+| Workplace Etiquette     | Module completion and class reflections           | Improved professionalism and adaptability        |
 
 ---
 
-### ✅ Final Reflection
+### Final Reflection
 
-This PRP370S Digital Portfolio reflects my growth in professional communication, self-awareness, and workplace readiness. Through business communication practice, mock interviews, and networking activities, I have strengthened both technical and interpersonal competencies required for success in the ICT industry.
+This digital portfolio demonstrates my progress in developing essential professional and interpersonal skills required in the ICT industry. Through completing modules and activities in PRP370S, I have gained confidence, discipline, and communication skills that will guide me as I enter the professional world.
