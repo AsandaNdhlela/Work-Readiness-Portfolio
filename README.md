@@ -31,6 +31,8 @@ ssment.
 ### Evidence
 
 Completed the “Interview Skills” course on Blackboard. Collected notes on STAR technique application, common interview questions, and feedback from practice interview sessions.
+<img width="1726" height="146" alt="Interview skills" src="https://github.com/user-attachments/assets/6280601c-c389-4e7f-a892-13cfdbc95c69" />
+
 
 ### Reflection (STAR Technique)
 
@@ -49,6 +51,7 @@ Completed the “Interview Skills” course on Blackboard. Collected notes on ST
 ### Evidence
 
 Participated in a mock interview simulation as part of the PRP370S assessment. Evidence includes a video recording of the session and peer/lecturer feedback reports.
+https://drive.google.com/file/d/1CmQn2jbqTk5toVD76AKb3FDJVIHuc9CR/view?usp=sharing
 
 ### Reflection (STAR Technique)
 
