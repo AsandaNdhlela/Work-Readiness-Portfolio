@@ -67,9 +67,11 @@ https://drive.google.com/file/d/1CmQn2jbqTk5toVD76AKb3FDJVIHuc9CR/view?usp=shari
 
 ## 4. Professional Networking
 
+
 ### Evidence
 
 Created and updated a professional LinkedIn profile to expand my ICT network. Shared academic achievements and GitHub projects. Also attended an online ICT networking session.
+<img width="1700" height="149" alt="professional networking" src="https://github.com/user-attachments/assets/ec896022-a9cb-4494-987a-a375710d2cac" />
 
 ### Reflection (STAR Technique)
 
@@ -88,6 +90,8 @@ Created and updated a professional LinkedIn profile to expand my ICT network. Sh
 ### Evidence
 
 Completed the “Workplace Etiquette” module and engaged in activities related to professional behavior, dress code, teamwork, and punctuality. Included notes and screenshots from Blackboard activities.
+<img width="1695" height="142" alt="work etiquette" src="https://github.com/user-attachments/assets/361de326-99fb-4b12-b224-66b3e51b488b" />
+
 
 ### Reflection (STAR Technique)
 
