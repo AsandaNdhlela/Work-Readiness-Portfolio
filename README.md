@@ -10,7 +10,9 @@
 
 ### Evidence
 
-Completed the “Work Readiness: Business Communication” module on Blackboard. Evidence includes screenshots of module completion and a sample professional email drafted for assessment.
+Completed the “Work Readiness: Business Communication” module on Blackboard. Evidence includes screenshots of module completion and a sample professional email drafted for asse
+ssment.
+<img width="1700" height="145" alt="Business Communication" src="https://github.com/user-attachments/assets/c88a1d6d-9ce1-420e-bfac-8d10451b27b9" />
 
 ### Reflection (STAR Technique)
 
