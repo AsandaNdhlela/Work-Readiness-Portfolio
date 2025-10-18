@@ -161,7 +161,7 @@ Completed the "Workplace Etiquette" module and engaged in activities related to 
 **LinkedIn Profile:** https://www.linkedin.com/in/asanda-ndhlela-4b300b257/
 
 **Profile Statistics:**
-- **Connections:** 350+ professional connections
+- **Connections:** 15+ professional connections
 - **Profile Completeness:** 95% All-Star rating
 - **Content Engagement:** Regular posts and comments on ICT industry topics
 - **Recommendations:** 3 professional recommendations from lecturers and mentors
@@ -189,7 +189,7 @@ Completed the "Workplace Etiquette" module and engaged in activities related to 
 - Joined and participated in 10+ ICT-focused groups and communities
 - Engaged with connections through meaningful comments and messages
 
-**Result:** Grew my network to 350+ quality connections, received multiple interview invitations, and established valuable mentorship relationships. The profile has become an effective tool for personal branding and professional networking in the ICT sector.
+**Result:** Grew my network to 15+ quality connections, received multiple interview invitations, and established valuable mentorship relationships. The profile has become an effective tool for personal branding and professional networking in the ICT sector.
 
 ---
 
@@ -204,7 +204,7 @@ Completed the "Workplace Etiquette" module and engaged in activities related to 
 | Workplace Etiquette     | Module completion and class reflections           | Improved professionalism and adaptability        |
 | CV Creation             | Professional CV document                          | Developed ATS-compliant, data-driven resume      |
 | GitHub Profile          | Online portfolio with 15+ repositories            | Showcased technical skills and project experience|
-| LinkedIn Connections    | 350+ professional network                         | Established industry presence and opportunities  |
+| LinkedIn Connections    | 15+ professional network                         | Established industry presence and opportunities  |
 
 ---
 
