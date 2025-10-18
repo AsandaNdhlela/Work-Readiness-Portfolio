@@ -105,6 +105,21 @@ Completed the “Workplace Etiquette” module and engaged in activities related
 
 ---
 
+## 📄 Create a CV 📎 
+**Evidence:** 
+[Asanda_Ndhlela CV.pdf](https://github.com/user-attachments/files/22986681/Asanda_Ndhlela.CV.pdf)
+
+### 🔍 Reflection *
+*Situation:** 
+I needed a professional, ATS-compliant CV for internship applications.
+**Task:**
+Develop a modern CV aligned with job descriptions and recruiter expectations.
+**Action:** 
+- Followed Blackboard tutorials and AI CV review feedback - Integrated measurable achievements and keywords
+**Result:** - **Performance:**
+ CV ranked in the top 10% of class submissions 🧩
+**Reflection:** Creating a digital-ready CV helped me understand how to use data-driven bullet points and relevant skills. I learned to emphasize technical contributions and outcomes.
+
 ## Summary Table
 
 | Category                | Evidence                                          | Reflection Summary                               |
