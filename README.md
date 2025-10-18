@@ -135,7 +135,8 @@ Completed the "Workplace Etiquette" module and engaged in activities related to 
 - **Pinned Projects:** 6 highlighted projects demonstrating full-stack development capabilities
 - **README Profile:** Professional bio with technical skills and contact information
 
-<img width="800" alt="GitHub Profile Screenshot" src="https://github.com/user-attachments/assets/example-github-screenshot" />
+
+<img width="937" height="472" alt="Screenshot 2025-10-18 at 22 15 35" src="https://github.com/user-attachments/assets/dc160166-2447-4c79-8bd2-40effac64925" />
 
 ### Reflection (STAR Technique)
 
@@ -157,7 +158,7 @@ Completed the "Workplace Etiquette" module and engaged in activities related to 
 
 ### Evidence
 
-**LinkedIn Profile:** [linkedin.com/in/asanda-ndhlela](https://linkedin.com/in/asanda-ndhlela)
+**LinkedIn Profile:** https://www.linkedin.com/in/asanda-ndhlela-4b300b257/
 
 **Profile Statistics:**
 - **Connections:** 350+ professional connections
@@ -171,7 +172,9 @@ Completed the "Workplace Etiquette" module and engaged in activities related to 
 - **ICT Recruiters:** 15%
 - **Alumni Network:** 10%
 
-<img width="800" alt="LinkedIn Profile Screenshot" src="https://github.com/user-attachments/assets/example-linkedin-screenshot" />
+<img width="811" height="573" alt="Screenshot 2025-10-18 at 20 45 28" src="https://github.com/user-attachments/assets/649e96ad-4e49-4f64-a115-dde7b419ecd7" />
+
+
 
 ### Reflection (STAR Technique)
 
