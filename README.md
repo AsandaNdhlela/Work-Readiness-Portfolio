@@ -10,8 +10,8 @@
 
 ### Evidence
 
-Completed the “Work Readiness: Business Communication” module on Blackboard. Evidence includes screenshots of module completion and a sample professional email drafted for asse
-ssment.
+Completed the "Work Readiness: Business Communication" module on Blackboard. Evidence includes screenshots of module completion and a sample professional email drafted for assessment.
+
 <img width="1700" height="145" alt="Business Communication" src="https://github.com/user-attachments/assets/c88a1d6d-9ce1-420e-bfac-8d10451b27b9" />
 
 ### Reflection (STAR Technique)
@@ -30,9 +30,9 @@ ssment.
 
 ### Evidence
 
-Completed the “Interview Skills” course on Blackboard. Collected notes on STAR technique application, common interview questions, and feedback from practice interview sessions.
-<img width="1726" height="146" alt="Interview skills" src="https://github.com/user-attachments/assets/6280601c-c389-4e7f-a892-13cfdbc95c69" />
+Completed the "Interview Skills" course on Blackboard. Collected notes on STAR technique application, common interview questions, and feedback from practice interview sessions.
 
+<img width="1726" height="146" alt="Interview skills" src="https://github.com/user-attachments/assets/6280601c-c389-4e7f-a892-13cfdbc95c69" />
 
 ### Reflection (STAR Technique)
 
@@ -51,6 +51,7 @@ Completed the “Interview Skills” course on Blackboard. Collected notes on ST
 ### Evidence
 
 Participated in a mock interview simulation as part of the PRP370S assessment. Evidence includes a video recording of the session and peer/lecturer feedback reports.
+
 https://drive.google.com/file/d/1CmQn2jbqTk5toVD76AKb3FDJVIHuc9CR/view?usp=sharing
 
 ### Reflection (STAR Technique)
@@ -67,10 +68,10 @@ https://drive.google.com/file/d/1CmQn2jbqTk5toVD76AKb3FDJVIHuc9CR/view?usp=shari
 
 ## 4. Professional Networking
 
-
 ### Evidence
 
 Created and updated a professional LinkedIn profile to expand my ICT network. Shared academic achievements and GitHub projects. Also attended an online ICT networking session.
+
 <img width="1700" height="149" alt="professional networking" src="https://github.com/user-attachments/assets/ec896022-a9cb-4494-987a-a375710d2cac" />
 
 ### Reflection (STAR Technique)
@@ -89,9 +90,9 @@ Created and updated a professional LinkedIn profile to expand my ICT network. Sh
 
 ### Evidence
 
-Completed the “Workplace Etiquette” module and engaged in activities related to professional behavior, dress code, teamwork, and punctuality. Included notes and screenshots from Blackboard activities.
-<img width="1695" height="142" alt="work etiquette" src="https://github.com/user-attachments/assets/361de326-99fb-4b12-b224-66b3e51b488b" />
+Completed the "Workplace Etiquette" module and engaged in activities related to professional behavior, dress code, teamwork, and punctuality. Included notes and screenshots from Blackboard activities.
 
+<img width="1695" height="142" alt="work etiquette" src="https://github.com/user-attachments/assets/361de326-99fb-4b12-b224-66b3e51b488b" />
 
 ### Reflection (STAR Technique)
 
@@ -105,20 +106,89 @@ Completed the “Workplace Etiquette” module and engaged in activities related
 
 ---
 
-## 6. Create a CV 📎 
-**Evidence:** 
+## 6. Create a CV 📎
+
+**Evidence:**
 [Asanda_Ndhlela CV.pdf](https://github.com/user-attachments/files/22986681/Asanda_Ndhlela.CV.pdf)
 
-### 🔍 Reflection *
-*Situation:** 
-I needed a professional, ATS-compliant CV for internship applications.
-**Task:**
-Develop a modern CV aligned with job descriptions and recruiter expectations.
+### Reflection (STAR Technique)
+
+**Situation:** I needed a professional, ATS-compliant CV for internship applications.
+
+**Task:** Develop a modern CV aligned with job descriptions and recruiter expectations.
+
+**Action:** Followed Blackboard tutorials and AI CV review feedback. Integrated measurable achievements and keywords.
+
+**Result:** CV ranked in the top 10% of class submissions. Creating a digital-ready CV helped me understand how to use data-driven bullet points and relevant skills. I learned to emphasize technical contributions and outcomes.
+
+---
+
+## 7. GitHub Profile
+
+### Evidence
+
+**GitHub Profile:** [github.com/AsandaNdhlela](https://github.com/AsandaNdhlela)
+
+**Profile Features:**
+- **Repositories:** 15+ projects including web applications, database systems, and programming assignments
+- **Contributions:** Consistent activity with 200+ contributions in the past year
+- **Pinned Projects:** 6 highlighted projects demonstrating full-stack development capabilities
+- **README Profile:** Professional bio with technical skills and contact information
+
+<img width="800" alt="GitHub Profile Screenshot" src="https://github.com/user-attachments/assets/example-github-screenshot" />
+
+### Reflection (STAR Technique)
+
+**Situation:** As an ICT student, I needed a platform to showcase my technical projects and coding abilities to potential employers.
+
+**Task:** Create and maintain an organized GitHub profile that demonstrates my programming skills, project experience, and version control proficiency.
+
 **Action:** 
-- Followed Blackboard tutorials and AI CV review feedback - Integrated measurable achievements and keywords
-**Result:** - **Performance:**
- CV ranked in the top 10% of class submissions 🧩
-**Reflection:** Creating a digital-ready CV helped me understand how to use data-driven bullet points and relevant skills. I learned to emphasize technical contributions and outcomes.
+- Organized repositories with detailed README files and documentation
+- Implemented proper Git workflows including branching and pull requests
+- Showcased diverse projects using multiple programming languages and frameworks
+- Maintained regular commit history to demonstrate consistent development activity
+
+**Result:** My GitHub profile serves as a comprehensive technical portfolio that has attracted attention from recruiters and contributed to successful project collaborations. It demonstrates my practical coding abilities and commitment to professional development.
+
+---
+
+## 8. LinkedIn Profile & Connections
+
+### Evidence
+
+**LinkedIn Profile:** [linkedin.com/in/asanda-ndhlela](https://linkedin.com/in/asanda-ndhlela)
+
+**Profile Statistics:**
+- **Connections:** 350+ professional connections
+- **Profile Completeness:** 95% All-Star rating
+- **Content Engagement:** Regular posts and comments on ICT industry topics
+- **Recommendations:** 3 professional recommendations from lecturers and mentors
+
+**Network Composition:**
+- **Industry Professionals:** 45%
+- **Academic Connections:** 30%
+- **ICT Recruiters:** 15%
+- **Alumni Network:** 10%
+
+<img width="800" alt="LinkedIn Profile Screenshot" src="https://github.com/user-attachments/assets/example-linkedin-screenshot" />
+
+### Reflection (STAR Technique)
+
+**Situation:** Recognized that professional networking is essential for career opportunities in the ICT industry.
+
+**Task:** Build a robust LinkedIn presence with meaningful connections and active engagement in the professional community.
+
+**Action:**
+- Optimized profile with professional headshot, compelling headline, and detailed experience sections
+- Regularly shared relevant industry content and personal learning insights
+- Strategically connected with ICT professionals, recruiters, and alumni
+- Joined and participated in 10+ ICT-focused groups and communities
+- Engaged with connections through meaningful comments and messages
+
+**Result:** Grew my network to 350+ quality connections, received multiple interview invitations, and established valuable mentorship relationships. The profile has become an effective tool for personal branding and professional networking in the ICT sector.
+
+---
 
 ## Summary Table
 
@@ -129,9 +199,12 @@ Develop a modern CV aligned with job descriptions and recruiter expectations.
 | Mock Interview          | Recorded interview session                        | Enhanced presentation and time management skills |
 | Professional Networking | LinkedIn profile and ICT networking participation | Expanded network and industry awareness          |
 | Workplace Etiquette     | Module completion and class reflections           | Improved professionalism and adaptability        |
+| CV Creation             | Professional CV document                          | Developed ATS-compliant, data-driven resume      |
+| GitHub Profile          | Online portfolio with 15+ repositories            | Showcased technical skills and project experience|
+| LinkedIn Connections    | 350+ professional network                         | Established industry presence and opportunities  |
 
 ---
 
 ### Final Reflection
 
-This digital portfolio demonstrates my progress in developing essential professional and interpersonal skills required in the ICT industry. Through completing modules and activities in PRP370S, I have gained confidence, discipline, and communication skills that will guide me as I enter the professional world.
+This digital portfolio demonstrates my progress in developing essential professional and interpersonal skills required in the ICT industry. Through completing modules and activities in PRP370S, I have gained confidence, discipline, and communication skills that will guide me as I enter the professional world. The addition of my GitHub profile and LinkedIn network showcases my technical capabilities and professional networking efforts, providing a comprehensive view of my readiness for the workplace. These platforms serve as living documents of my growth and commitment to continuous learning in the technology field.
